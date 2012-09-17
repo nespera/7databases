@@ -1,4 +1,4 @@
-Gremlin.defineStep('sibling',
+Gremlin.defineStep('sibling1',
   [Vertex, Pipe],
   {
     def start
